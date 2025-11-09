@@ -24,6 +24,6 @@
 | [![GitHub Stats](https://github-readme-stats.zohan.tech/api?username=tamiramil&show_icons=true&hide_border=true&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=0a0a0a&hide_title=true)](https://github.com/tamiramil) | [![Top Langs](https://github-readme-stats.zohan.tech/api/top-langs/?username=tamiramil&layout=compact&hide_border=true&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=0a0a0a&hide_title=true)](https://github.com/tamiramil) |
 
 ## 💟 Socials
-[![GitHub](https://img.shields.io/static/v1?label=&message=GitHub&style=flat&logo=github&logoColor=white&color=black)](https://github.com/temirlanemilbekovtu/)
+[![GitHub](https://img.shields.io/static/v1?label=&message=GitHub&style=flat&logo=github&logoColor=white&color=black)](https://github.com/tamiramil/)
 [![Telegram](https://img.shields.io/static/v1?label=&message=Telegram&style=flat&logo=telegram&logoColor=white&color=black)](https://t.me/emilbektemir)
-[![Mail](https://img.shields.io/static/v1?label=&message=Mail&style=flat&logo=gmail&logoColor=white&color=black)](mailto:emilbekov.tute@gmail.com)
+[![Mail](https://img.shields.io/static/v1?label=&message=Mail&style=flat&logo=gmail&logoColor=white&color=black)](mailto:tamiramil@proton.me)
