@@ -13,6 +13,9 @@
 ![Godot Engine](https://img.shields.io/static/v1?label=&message=godot&style=for-the-badge&logo=godot-engine&logoColor=white&color=black)
 ![Aseprite](https://img.shields.io/static/v1?label=&message=aseprite&style=for-the-badge&logo=aseprite&logoColor=white&color=black)
 
+![PostgreSQL](https://img.shields.io/static/v1?label=&message=PostgreSQL&style=for-the-badge&logo=postgresql&logoColor=white&color=black)
+![MySQL](https://img.shields.io/static/v1?label=&message=mysql&style=for-the-badge&logo=mysql&logoColor=white&color=black)
+
 ![Linux](https://img.shields.io/static/v1?label=&message=linux&style=for-the-badge&logo=linux&logoColor=white&color=black)
 ![Git](https://img.shields.io/static/v1?label=&message=git&style=for-the-badge&logo=git&logoColor=white&color=black)
 ![VS Code](https://img.shields.io/static/v1?label=&message=vs%20code&style=for-the-badge&logo=visual-studio-code&logoColor=white&color=black)
